@@ -2,6 +2,9 @@
 # This code implements a Rotor class for the Enigma Emulation
 
 class Rotor:
+    '''
+    This class models the Enigma Machine Rotors.
+    '''
 
     POSITIONS = 26 #The number of possible positions.
     COMPLETE_CYCLES = 0 #Counter for completed cycles.
