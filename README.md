@@ -1,2 +1,2 @@
 # EnigmaMachineAPI
-Attempt to implemente an Enigma Machine API
+Attempt to implement an Enigma Machine API
